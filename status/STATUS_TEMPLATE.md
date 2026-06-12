@@ -11,6 +11,7 @@ geography_and_demographics:
   coastline: [待填充：true / false]
   literacy_rate_percent: [待填充]
   civilization_level: "[待填充]"
+civilization_name: "[玩家输入的名称]"
 
 # 核心系统参数 (Core Metrics)
 development_coefficient_dc: 1.0
